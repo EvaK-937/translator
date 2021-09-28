@@ -1,3 +1,7 @@
+# Описание программы "Переводчик"
+Данная программа дает возможность переводить предложения на многие языки.
+![Переводчикприложение](https://user-images.githubusercontent.com/70647636/135085804-789b9dc7-1552-42f0-8c0a-f778ac18a321.png)
+
 # Getting Started with CRA Electron Builder TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the [electron-builder-typescript](https://www.npmjs.com/package/cra-template-electron-builder-typescript) template.
